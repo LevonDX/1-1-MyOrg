@@ -21,18 +21,6 @@
             "kind": "app",
             "properties": {
                 "enabled": true,
-                "hostNameSslStates": [
-                    {
-                        "name": "1-1-myorg.azurewebsites.net",
-                        "sslState": "Disabled",
-                        "hostType": "Standard"
-                    },
-                    {
-                        "name": "1-1-myorg.scm.azurewebsites.net",
-                        "sslState": "Disabled",
-                        "hostType": "Repository"
-                    }
-                ],
                 "serverFarmId": "[parameters('serverfarms_ASP_Hoory_ad0f_externalid')]",
                 "reserved": false,
                 "isXenon": false,
