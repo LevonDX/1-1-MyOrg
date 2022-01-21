@@ -159,7 +159,7 @@
                 "[resourceId('Microsoft.Web/sites', parameters('sites_1_1_MyOrg_name'))]"
             ],
             "properties": {
-                "siteName": "1-1-MyOrg",
+                "siteName": "1-1-MyOrg_ARM",
                 "hostNameType": "Verified"
             }
         }
