@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "sites_1_1_MyOrg_name": {
-            "defaultValue": "1-1-MyOrg_ARM",
+            "defaultValue": "MyOrg_ARM",
             "type": "String"
         },
         "serverfarms_ASP_Hoory_ad0f_externalid": {
